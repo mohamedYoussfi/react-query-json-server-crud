@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 6500,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer 54",
+      "price": 1200,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Computer UY",
+      "price": 6500,
+      "checked": true
+    },
+    {
+      "id": 5,
+      "name": "Computer",
+      "price": 6500,
+      "checked": true
+    },
+    {
+      "name": "yyy",
+      "price": "78",
+      "checked": "false",
+      "id": 6
+    },
+    {
+      "name": "USER",
+      "price": "90",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "ADMIN",
+      "price": "90",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Computer",
+      "price": 6500,
+      "checked": false
+    },
+    {
+      "name": "yyy",
+      "price": "78",
+      "checked": "false",
+      "id": 10
+    },
+    {
+      "name": "USER",
+      "price": "90",
+      "checked": false,
+      "id": 11
+    },
+    {
+      "name": "ADMIN",
+      "price": "90",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "ADMIN",
+      "price": "90",
+      "checked": false,
+      "id": 13
+    }
+  ]
+}
